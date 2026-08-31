@@ -1,0 +1,13 @@
+order_id,customer_name,city,category,product_name,quantity,unit_price,order_date,order_status
+1001,John Doe,New York,Electronics,Wireless Headphones,2,99.99,2026-01-15,Completed
+1002,Jane Smith,Los Angeles,Fashion,Leather Jacket,1,199.50,2026-01-18,Completed
+1003,Bob Johnson,Chicago,Home & Kitchen,Coffee Maker,1,79.00,2026-01-20,Completed
+1004,Alice Brown,Houston,Electronics,Smart Watch,1,249.99,2026-02-02,Completed
+1005,Charlie Davis,Phoenix,Fashion,Running Shoes,2,85.00,2026-02-10,Completed
+1006,Eva Wilson,Philadelphia,Home & Kitchen,Air Fryer,1,120.00,2026-02-14,Returned
+1007,Frank Miller,San Antonio,Electronics,Bluetooth Speaker,3,45.00,2026-02-22,Completed
+1008,Grace Taylor,San Diego,Fashion,Denim Jeans,2,60.00,2026-03-01,Completed
+1009,Henry Anderson,Dallas,Home & Kitchen,Blender,1,65.00,2026-03-05,Completed
+1010,Isabella Thomas,San Jose,Electronics,Gaming Mouse,2,50.00,2026-03-12,Completed
+1011,John Doe,New York,Electronics,4K Monitor,1,350.00,2026-03-15,Completed
+1012,Jane Smith,Los Angeles,Fashion,Sunglasses,1,120.00,2026-03-20,Completed
